@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { PDFViewer } from '@react-pdf/renderer';
 import PDFDocument from './PDFDocument';
-import Image from '../../assets/image.png';
+import Image from '../../assets/images.jpg';
 import './home.css';
 
 const Home = () => {
